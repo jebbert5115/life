@@ -33,7 +33,7 @@ export default function Navbar({ onDownload }: NavbarProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-16">
           <a href="#" className="flex items-center gap-2">
-            <img src="/logo.png" alt="Life™ Legacy Edition" className="h-10 w-auto" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Life™ Legacy Edition" className="h-10 w-auto" />
           </a>
 
           <div className="hidden lg:flex items-center gap-6">

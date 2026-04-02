@@ -22,7 +22,7 @@ export default function HeroSection({ onDownload }: HeroSectionProps) {
 
         <div className="float-anim mt-6 mb-8">
           <img
-            src="/logo.png"
+            src={`${import.meta.env.BASE_URL}logo.png`}
             alt="Life™ - Legacy Edition"
             className="w-auto max-w-sm sm:max-w-md md:max-w-lg mx-auto drop-shadow-2xl"
             style={{ filter: "drop-shadow(0 0 40px rgba(200,151,42,0.3))" }}

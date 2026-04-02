@@ -36,7 +36,7 @@ export default function DownloadModal({ isOpen, onClose }: DownloadModalProps) {
       <div className="modal-panel rounded-lg max-w-lg w-full overflow-hidden animate-in fade-in zoom-in-95 duration-200">
         <div className="bg-gradient-to-r from-amber-950/80 to-red-950/50 border-b border-amber-800/40 px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <img src="/logo.png" alt="" className="h-8 w-auto" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="" className="h-8 w-auto" />
             <span className="font-cinzel text-amber-300 font-bold tracking-wider text-sm">DOWNLOAD LIFE™ — LEGACY EDITION</span>
           </div>
           <button

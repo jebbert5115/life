@@ -8,7 +8,7 @@ export default function Footer({ onDownload }: FooterProps) {
       <div className="max-w-7xl mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-10 mb-12">
           <div className="md:col-span-1">
-            <img src="/logo.png" alt="Life™ Legacy Edition" className="h-16 w-auto mb-4" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Life™ Legacy Edition" className="h-16 w-auto mb-4" />
             <p className="font-garamond text-amber-100/40 text-sm leading-relaxed">
               The definitive edition of the world's only mandatory massively-multiplayer RPG.
             </p>
