@@ -37,7 +37,7 @@ export default function DownloadModal({ isOpen, onClose }: DownloadModalProps) {
         <div className="bg-gradient-to-r from-amber-950/80 to-red-950/50 border-b border-amber-800/40 px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img src={`${import.meta.env.BASE_URL}logo.png`} alt="" className="h-8 w-auto" />
-            <span className="font-cinzel text-amber-300 font-bold tracking-wider text-sm">DOWNLOAD LIFE™ — LEGACY EDITION</span>
+            <span className="font-cinzel text-amber-300 font-bold tracking-wider text-sm">DOWNLOAD LIFE™ - LEGACY EDITION</span>
           </div>
           <button
             onClick={onClose}
@@ -60,7 +60,7 @@ export default function DownloadModal({ isOpen, onClose }: DownloadModalProps) {
 
           <div className="bg-red-950/30 border border-red-800/40 rounded-lg p-5 mb-8 text-left">
             <p className="font-garamond text-amber-100/80 text-lg leading-relaxed">
-              We're sorry — <strong className="text-amber-300">all 8,200,000,000 of 8,200,000,000 server slots</strong> are currently occupied.
+              We're sorry - <strong className="text-amber-300">all 8,200,000,000 of 8,200,000,000 server slots</strong> are currently occupied.
               Life™ has reached maximum concurrent player capacity.
             </p>
             <p className="font-garamond text-amber-100/60 text-base leading-relaxed mt-3">
@@ -80,7 +80,7 @@ export default function DownloadModal({ isOpen, onClose }: DownloadModalProps) {
             </div>
             <div className="flex justify-between font-cinzel text-[10px] tracking-widest text-amber-800/60 uppercase mt-1.5">
               <span>0</span>
-              <span className="text-red-500/80">8,200,000,000 / 8,200,000,000 — FULL</span>
+              <span className="text-red-500/80">8,200,000,000 / 8,200,000,000 - FULL</span>
               <span>MAX</span>
             </div>
           </div>
@@ -120,7 +120,7 @@ export default function DownloadModal({ isOpen, onClose }: DownloadModalProps) {
 
         <div className="bg-amber-950/10 border-t border-amber-900/30 px-6 py-3 text-center">
           <p className="font-cinzel text-[10px] tracking-widest text-amber-900/50 uppercase">
-            Life™ — Legacy Edition • Server Uptime: ~300,000 Years • No Scheduled Maintenance
+            Life™ - Legacy Edition • Server Uptime: ~300,000 Years • No Scheduled Maintenance
           </p>
         </div>
       </div>

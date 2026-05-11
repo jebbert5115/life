@@ -33,7 +33,7 @@ export default function HeroSection({ onDownload }: HeroSectionProps) {
           "The definitive edition of the award-winning game you were enrolled in at birth."
         </p>
         <p className="font-cinzel text-xs tracking-widest text-amber-500/60 mb-10 uppercase">
-          — PC Gamer, 10/10 "Inescapable"
+          - PC Gamer, 10/10 "Inescapable"
         </p>
 
         <div className="flex flex-col sm:flex-row items-center gap-4 mb-10">

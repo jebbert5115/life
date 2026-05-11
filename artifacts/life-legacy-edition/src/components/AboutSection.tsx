@@ -17,7 +17,7 @@ export default function AboutSection() {
             <div className="space-y-5 font-garamond text-lg text-amber-100/70 leading-relaxed">
               <p>
                 Originally released in <strong className="text-amber-300">approximately 300,000 BCE</strong> as a limited Early Access title,
-                <em> Life™</em> has since grown into the world's most populated — and only — mandatory massively multiplayer
+                <em> Life™</em> has since grown into the world's most populated - and only - mandatory massively multiplayer
                 open-world role-playing game.
               </p>
               <p>

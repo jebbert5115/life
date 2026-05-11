@@ -65,13 +65,13 @@ export default function Footer({ onDownload }: FooterProps) {
         <div className="border-t border-amber-900/30 pt-8">
           <div className="text-center mb-4">
             <button onClick={onDownload} className="gold-btn px-10 py-3 rounded text-sm">
-              DOWNLOAD LIFE™ — LEGACY EDITION (FREE)
+              DOWNLOAD LIFE™ - LEGACY EDITION (FREE)
             </button>
             <p className="font-cinzel text-[10px] tracking-widest text-amber-800/40 mt-2 uppercase">"Free" as in you had no say in it</p>
           </div>
 
           <div className="flex flex-wrap items-center justify-center gap-4 text-xs font-cinzel tracking-widest text-amber-900/50 uppercase mt-6">
-            <span>© Life™ Development LLC — Established ~300,000 BCE</span>
+            <span>© Life™ Development LLC - Established ~300,000 BCE</span>
             <a href="#" className="hover:text-amber-700/60 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-amber-700/60 transition-colors">Terms of Service</a>
             <a href="#" className="hover:text-amber-700/60 transition-colors">EULA (Mandatory)</a>

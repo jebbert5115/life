@@ -4,7 +4,7 @@ export default function FeaturesSection() {
       icon: "🧬",
       title: "Character Customization",
       description:
-        "Choose from over 8 billion unique character combinations at birth. Customize your starting stats including Intelligence, Charisma, Constitution, and Luck — all rolled randomly with no player input whatsoever.",
+        "Choose from over 8 billion unique character combinations at birth. Customize your starting stats including Intelligence, Charisma, Constitution, and Luck - all rolled randomly with no player input whatsoever.",
       badge: "NEW IN LEGACY EDITION",
     },
     {

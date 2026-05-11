@@ -18,7 +18,7 @@ export default function SystemRequirements() {
     { label: "Network", value: "High-Speed Social Network (3+ Trusted Companions)" },
     { label: "Age Rating", value: "Mature Themes Unlock Progressively (No Opt-Out)" },
     { label: "Wealth",   value: "Upper Percentile (Enables Pay-to-Win Mechanics)" },
-    { label: "Luck Stat", value: "High (Not Configurable — Seeded at Spawn)" },
+    { label: "Luck Stat", value: "High (Not Configurable - Seeded at Spawn)" },
   ];
 
   return (

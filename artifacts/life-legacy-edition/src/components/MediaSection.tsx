@@ -35,7 +35,7 @@ export default function MediaSection() {
   const awards = [
     { org: "Game of the Eon Awards", award: "Best Unfinishable Game", year: "2024" },
     { org: "The Rotten Tomatoes of Life", award: "100% Audience Score (Mandatory Participation)", year: "2024" },
-    { org: "IGN", award: "10/10 — Would Not Choose Not To Play", year: "2023" },
+    { org: "IGN", award: "10/10 - Would Not Choose Not To Play", year: "2023" },
     { org: "Time Magazine", award: "Game of the Year (Every Year)", year: "2024" },
     { org: "The Existentialists' Guild", award: "Most Impactful Open-Ended Narrative", year: "2024" },
     { org: "Steam Awards", award: "Outstanding Achievement in Unavoidability", year: "2023" },

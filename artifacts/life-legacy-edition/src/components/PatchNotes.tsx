@@ -8,7 +8,7 @@ export default function PatchNotes() {
       notes: [
         "Fixed critical bug where some players were \"finding meaning.\" Status reverted.",
         "Increased coffee dependency scaling curve by 34%.",
-        "Nerfed the 'Youth' buff — now expires 3-7 years earlier than intended.",
+        "Nerfed the 'Youth' buff - now expires 3-7 years earlier than intended.",
         "Fixed exploit allowing some players to enjoy Mondays.",
         "Added new 'Sudden Existential Crisis' random event during commute.",
         "Patch notes themselves are no longer readable without glasses (Level 40+ players only).",
@@ -20,7 +20,7 @@ export default function PatchNotes() {
       type: "MAJOR UPDATE",
       typeColor: "text-amber-400 border-amber-800/40 bg-amber-950/20",
       notes: [
-        "Introduced 'AI Companion' NPC in the Career Zone — behavior is erratic.",
+        "Introduced 'AI Companion' NPC in the Career Zone - behavior is erratic.",
         "Increased housing costs in most server regions. No compensation provided.",
         "Expanded the Anxiety skill tree with 47 new passive nodes.",
         "Climate change event has been promoted from 'sidequest' to 'main storyline'.",
@@ -96,7 +96,7 @@ export default function PatchNotes() {
 
         <div className="mt-6 text-center">
           <p className="font-garamond text-amber-700/40 italic text-sm">
-            View full patch history at store.life/patchnotes — Requires authentication via birth certificate.
+            View full patch history at store.life/patchnotes - Requires authentication via birth certificate.
           </p>
         </div>
       </div>

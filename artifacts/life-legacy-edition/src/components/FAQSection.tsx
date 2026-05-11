@@ -31,7 +31,7 @@ const faqs = [
   },
   {
     q: "Is there co-op?",
-    a: "Yes — Life™ features robust co-op via the 'Friendship,' 'Family,' and 'Romance' mechanics. Co-op party members are limited to their own playthroughs and cannot fully share your experience. All co-op is asynchronous in the sense that your parties may end at different times.",
+    a: "Yes - Life™ features robust co-op via the 'Friendship,' 'Family,' and 'Romance' mechanics. Co-op party members are limited to their own playthroughs and cannot fully share your experience. All co-op is asynchronous in the sense that your parties may end at different times.",
   },
   {
     q: "Why am I lagging?",
@@ -43,7 +43,7 @@ const faqs = [
   },
   {
     q: "How do I get more gold (money)?",
-    a: "Gold is primarily obtained through the Labor Exchange mechanic, wherein you perform tasks for other players in exchange for currency. Alternative methods include investment, inheritance, and luck — the latter of which is configured at character creation and cannot be changed.",
+    a: "Gold is primarily obtained through the Labor Exchange mechanic, wherein you perform tasks for other players in exchange for currency. Alternative methods include investment, inheritance, and luck - the latter of which is configured at character creation and cannot be changed.",
   },
   {
     q: "Are there cheats?",
@@ -99,7 +99,7 @@ export default function FAQSection() {
         <div className="mt-10 card-glow rounded-lg p-6 text-center">
           <p className="font-cinzel text-amber-300 font-bold mb-2">Still have questions?</p>
           <p className="font-garamond text-amber-100/50 text-base">
-            Contact our support team at <span className="text-amber-400/80">support@life.game</span> — average response time: approximately one lifetime.
+            Contact our support team at <span className="text-amber-400/80">support@life.game</span> - average response time: approximately one lifetime.
           </p>
         </div>
       </div>
